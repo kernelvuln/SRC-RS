@@ -16,4 +16,6 @@
  Tool Interface Standard (TIS) Executable and Linking Format (ELF) Specification
  http://www.uclibc.org/docs/elf.pdf
 
+ Resolving ELF Relocation Name/Symbols
+ http://em386.blogspot.com/2006/10/resolving-elf-relocation-name-symbols.html
 ----------------------------------------------------------------------------------
