@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------
+                                  ELF Stuffs                     
+----------------------------------------------------------------------------------
+ A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux 
+ http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+
+ Modern Day ELF Runtime infection via GOT poisoning 
+ http://vxheaven.org/lib/vrn00.html                 
+
+ EXECUTABLE AND LINKABLE FORMAT (ELF)
+ http://www.muppetlabs.com/~breadbox/software/ELF.txt
+
+ ELF:From The Programmer's Perspective
+ http://l4u-00.jinr.ru/usoft/WWW/www_debian.org/Documentation/elf/elf.html
+
+ Tool Interface Standard (TIS) Executable and Linking Format (ELF) Specification
+ http://www.uclibc.org/docs/elf.pdf
+
+----------------------------------------------------------------------------------
