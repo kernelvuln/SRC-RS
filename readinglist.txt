@@ -18,4 +18,13 @@
 
  Resolving ELF Relocation Name/Symbols
  http://em386.blogspot.com/2006/10/resolving-elf-relocation-name-symbols.html
+
+ How is a binary executable organized? Let's explore it!
+ http://jvns.ca/blog/2014/09/06/how-to-read-an-executable/
+
+ ELF101 a Linux executable walkthrough
+ https://code.google.com/p/corkami/wiki/ELF101
+
+ Manually Creating an ELF Executable
+ https://github.com/miss-dash/manual_elf_executable
 ----------------------------------------------------------------------------------
