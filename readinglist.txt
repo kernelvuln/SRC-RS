@@ -27,4 +27,7 @@
 
  Manually Creating an ELF Executable
  https://github.com/miss-dash/manual_elf_executable
+
+ Linux ELF Object File Format (and ELF Header Structure) Basics
+ http://www.thegeekstuff.com/2012/07/elf-object-file-format/
 ----------------------------------------------------------------------------------
