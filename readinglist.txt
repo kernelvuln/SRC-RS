@@ -31,3 +31,21 @@
  Linux ELF Object File Format (and ELF Header Structure) Basics
  http://www.thegeekstuff.com/2012/07/elf-object-file-format/
 ----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+                                  GLIBC Stuffs                     
+----------------------------------------------------------------------------------
+GHOST: glibc gethostbyname buffer overflow
+[English Version]
+https://www.qualys.com/research/security-advisories/GHOST-CVE-2015-0235.txt
+[Chinese Version]
+http://drops.wooyun.org/papers/4780
+
+The poisoned NUL byte, 2014 edition
+http://googleprojectzero.blogspot.com/2014/08/the-poisoned-nul-byte-2014-edition.html
+
+glibc off-by-one NUL byte heap overflow in gconv_translit_find by Google Security Research 
+https://code.google.com/p/google-security-research/issues/detail?id=96
+
+Glibc Adventures: The Forgotten Chunks
+http://contextis.co.uk/documents/120/Glibc_Adventures-The_Forgotten_Chunks_1.pdf
+----------------------------------------------------------------------------------
