@@ -2,9 +2,11 @@
 # Sample Linux Kernel Module Makefile
 #
 
-obj-m = main.o
+obj-m += base_sample.o
+PWD :=$(shell pwd)
+KDIR :=/lib/modules/$(shell uname -r)/build
 
 all:
-	make -C /lib/modules/$(shell uname -r)/build M=$(shell pwd)
+	make -C $(KDIR) M=$(PWD) modules
 clean:
-	rm -rf *.o *.ko *.mod.c modules.order Module.symvers
+	make -C $(KDIR) M=$(PWD) clean
