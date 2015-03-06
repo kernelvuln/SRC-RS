@@ -2,7 +2,11 @@
 # Sample Linux Kernel Module Makefile
 #
 
-obj-m += base_sample.o
+# module name
+obj-m = mod_param.o
+# module src
+#sample-y = base_sample.o
+
 PWD :=$(shell pwd)
 KDIR :=/lib/modules/$(shell uname -r)/build
 
